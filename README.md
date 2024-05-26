@@ -2,7 +2,7 @@
 
 ##### Resultado final
 
-!()['https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/instalar-bootstrap5-en-nextjs.png']
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/instalar-bootstrap5-en-nextjs.png)
 
 ##### Crear una aplicación Next.js
 
