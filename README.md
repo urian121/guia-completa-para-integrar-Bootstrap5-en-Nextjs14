@@ -1,5 +1,9 @@
 # Guía Completa para Integrar Bootstrap 5 en Next.js 14
 
+##### Resultado final
+
+!()['https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/instalar-bootstrap5-en-nextjs.png']
+
 ##### Crear una aplicación Next.js
 
     Utiliza el siguiente comando para crear una nueva aplicación Next.js:
