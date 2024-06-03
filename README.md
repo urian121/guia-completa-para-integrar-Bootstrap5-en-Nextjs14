@@ -9,6 +9,10 @@
     Utiliza el siguiente comando para crear una nueva aplicación Next.js:
     npx create-next-app@latest my-app
 
+##### Instalar Bootstrap
+
+    npm i bootstrap@5.3.3
+
 ##### Integrar el CSS de Bootstrap
 
     En el archivo layout.js o layout.tsx, comenta la importación de globals.css y luego importa el CSS de Bootstrap de la siguiente manera:
